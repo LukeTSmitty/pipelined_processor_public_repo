@@ -1,2 +1,2 @@
 # pipelined_processor_public_repo
-public repository for my implementation of a ECE 411 machine problem. Full implementation kept private to respect academic integrity and course policies. Detailed walkthrough, architecture discussion, and code review available during interviews.
+This is a Public Repository to go over my implementation of a Machine problem I did for ECE 411 at UIUC. The problem is for a pipelined processor that runs the rv32i ISA with the exception of some instructions. Full implementation kept private to respect academic integrity and course policies. Detailed walkthrough, architecture discussion, and code review available by request or during an interview. Feel free to message me on Linkedin (https://www.linkedin.com/in/luke-smith-500730377/) 
